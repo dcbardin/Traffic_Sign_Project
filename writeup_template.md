@@ -60,8 +60,8 @@ signs data set:
 
 Here is an exploratory visualization of the data set.In this case, based on random system of 25 images with respective ID’s. Aso, the dataset is showed by Chart with information of Class and Sign Picture numbers.
 
-![alt text][image3]
 ![alt text][image1]
+![alt text][image3]
 
 
 ###Design and Test a Model Architecture
