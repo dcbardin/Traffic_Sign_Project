@@ -74,7 +74,7 @@ As a first step, I decided to convert the images to grayscale because it makes t
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image2]
+![alt text][image]
 
 As a last step, I normalized the image data because it help to speed up the training process.
 
