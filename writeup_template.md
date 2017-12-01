@@ -26,7 +26,6 @@ The goals / steps of this project are the following:
 [image5]: ./examples/graph3.jpg "Accuracy"
 [image6]: ./examples/imagem4.jpg "Germany Sign"
 [image7]: ./examples/imagem7.jpg "Accuracy results"
-[image]: ./examples/imagem.jpg "Visuaization"
 
 
 
