@@ -42,7 +42,7 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code]( https://github.com/dcbardin/Traffic_Sign_Project_Final.gitTraffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code]( https://github.com/dcbardin/Traffic_Sign_Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
@@ -59,8 +59,9 @@ signs data set:
 ####2. Include an exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set.In this case, based on random system of 25 images with respective ID’s. Aso, the dataset is showed by Chart with information of Class and Sign Picture numbers.
-![alt text][image1]
+
 ![alt text][image3]
+![alt text][image1]
 
 
 ###Design and Test a Model Architecture
