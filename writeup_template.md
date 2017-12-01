@@ -19,13 +19,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image]: ./examples/imagem.jpg "Visuaization"
+
 [image2]: ./examples/grayscale.jpg "Grayscale"
 [image3]: ./examples/graph1.jpg "Dataset"
 [image4]: ./examples/graph2.jpg "Augmented"
 [image5]: ./examples/graph3.jpg "Accuracy"
 [image6]: ./examples/imagem4.jpg "Germany Sign"
 [image7]: ./examples/imagem7.jpg "Accuracy results"
+[image]: ./examples/imagem.jpg "Visuaization"
 
 
 
@@ -59,10 +60,8 @@ signs data set:
 ####2. Include an exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set.In this case, based on random system of 25 images with respective ID’s. Aso, the dataset is showed by Chart with information of Class and Sign Picture numbers.
-Images
 ![alt text][image]
 
-Dataset
 ![alt text][image3]
 
 
@@ -74,7 +73,7 @@ As a first step, I decided to convert the images to grayscale because it makes t
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image]
+![alt text][image2]
 
 As a last step, I normalized the image data because it help to speed up the training process.
 
