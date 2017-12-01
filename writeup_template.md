@@ -22,8 +22,8 @@ The goals / steps of this project are the following:
 [image1]: ./examples/imagem1.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscale"
 [image3]: ./examples/graph1.jpg "Dataset"
-[image4]: ./examples/graph1.jpg "Augmented"
-[image5]: ./examples/graph1.jpg "Accuracy"
+[image4]: ./examples/graph2.jpg "Augmented"
+[image5]: ./examples/graph3.jpg "Accuracy"
 [image6]: ./examples/imagem4.jpg "Germany Sign"
 [image7]: ./examples/imagem7.jpg "Accuracy results"
 
@@ -58,7 +58,7 @@ signs data set:
 
 ####2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set.In this case, based on random system of 25 images with respective ID’s. Aso, the dataset is showed by Chart with information of Class and Sign Picture numbers.
+Here is an exploratory visualization of the data set.In this case, based on random system of 25 images with respective IDâ€™s. Aso, the dataset is showed by Chart with information of Class and Sign Picture numbers.
 ![alt text][image1]
 ![alt text][image3]
 
