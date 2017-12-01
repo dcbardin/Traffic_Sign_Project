@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/imagem1.jpg "Visualization"
+[image1]: ./examples/imagem.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscale"
 [image3]: ./examples/graph1.jpg "Dataset"
 [image4]: ./examples/graph2.jpg "Augmented"
