@@ -19,13 +19,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/imagem1.jpg "Visualization"
+[image1]: ./examples/Imagem1.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscale"
 [image3]: ./examples/graph1.jpg "Dataset"
 [image4]: ./examples/graph2.jpg "Augmented"
 [image5]: ./examples/graph3.jpg "Accuracy"
 [image6]: ./examples/imagem4.jpg "Germany Sign"
-[image7]: ./examples/imagem7.jpg "Accuracy results"
+[image7]: ./examples/Imagem7.jpg "Accuracy results"
 
 
 
