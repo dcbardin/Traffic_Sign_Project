@@ -102,15 +102,12 @@ My final model consisted of the following layers:
 | RELU					|												|
 | Max pooling	      	| 2x2 stride,  outputs 5x5x16 				|
 | Convolution 1x1	    | 2x2 stride, valid padding, outputs 1x1x412    									|
-| RELU					|							
-
-| Fully connected		| input 412, output 122 
-| RELU					|							
-
-| Fully connected		| input 122, output 84
-| RELU					|							
-
-| Fully connected		| input 84, output 43
+| RELU					|												|
+| Fully connected		| input 412, output 122 	|
+| RELU					|												|	
+| Fully connected		| input 122, output 84	|
+| RELU					|												|						
+| Fully connected		| input 84, output 43	|
 
 
 ####3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
