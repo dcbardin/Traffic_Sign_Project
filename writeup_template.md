@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/graph1.jpg "Dataset"
 [image4]: ./examples/graph2.jpg "Augmented"
 [image5]: ./examples/graph3.jpg "Accuracy"
-[image6]: ./examples/imagem4.jpg "Germany Sign"
+[image6]: ./examples/imagem8.jpg "Germany Sign"
 [image7]: ./examples/Imagem7.jpg "Accuracy results"
 
 
