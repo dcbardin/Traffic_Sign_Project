@@ -104,7 +104,13 @@ My final model consisted of the following layers:
 | Convolution 1x1	    | 2x2 stride, valid padding, outputs 1x1x412    									|
 | RELU					|							
 
-| Fully connected		| input 412, output 122        									
+| Fully connected		| input 412, output 122 
+| RELU					|							
+
+| Fully connected		| input 122, output 84
+| RELU					|							
+
+| Fully connected		| input 84, output 43
 
 
 ####3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
@@ -118,8 +124,8 @@ Below we can find the accuracy data.
 
 My final model results were:
 * training set accuracy of 1.000
-* validation set accuracy of 0.950 
-* test set accuracy of 0.945
+* validation set accuracy of 0.980 
+* test set accuracy of 0.946
 
 ![alt text][image5]
 
@@ -142,7 +148,7 @@ Here are 3 German traffic signs that I found on the web:
 
 ![alt text][image6] 
 
-The first image might be difficult to classify because, with Guess of 66%. Its becouse image is so similar to another one, as 20Km/h (Guess 34%).
+The first image might be difficult to classify because, with Guess of 86%. Its becouse image is so similar to another one, as 50Km/h (Guess 5%).
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
@@ -151,7 +157,7 @@ Here are the results of the prediction:
 ![alt text][image7] 
 
 
-The model was able to correctly guess 2 of the 3 traffic signs, which gives an accuracy of 66%.
+The model was able to correctly guess 5 of the 5 traffic signs, which gives an accuracy of 97%.
 
 ####3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
