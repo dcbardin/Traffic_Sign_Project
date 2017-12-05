@@ -88,7 +88,9 @@ The difference between the original data set and the augmented data set is the f
 
 ####2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
-Herein we can find the Train and Valid Dataset, after increase the number of images to increase the accuracy of training
+Herein we can find the Train and Valid Dataset, after increase the number of images to increase the accuracy of training.
+
+It was appled a convolutional neuronal network to classify the traffic signs.
 
 My final model consisted of the following layers:
 
